@@ -12,3 +12,6 @@ To set up the toolchain, please follow these steps (keeping in mind, this will n
 2:  Create the following directory on your C:\ drive; "C:\Scripts\Exchange Migration"
 
 3:  Extract the master ZIP on this github to the directory in step 2.
+
+
+Please be sure to head over to the wiki for documentation on all of the scripts, the wiki contains some useful insight on the migration tools.
