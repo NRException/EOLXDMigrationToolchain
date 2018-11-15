@@ -1,6 +1,6 @@
 # EOLXDMigrationToolchain
 (Exchange online Cross Domain Migration Toolchain)
-This toolchain was designed to migrate mailboxes from a legacy domain to an office 365 hybrid exchange deployment with a higher functional level.
+This toolchain was designed to migrate mailboxes from a legacy domain to a new domain with a higher functional level, and then finally moved to office 365 via a hybrid exchange deployment.
 
 There are a few things to keep in mind if you're going to use this toolchain, it was designed to be copied to the following path on the root C:\ drive of an exchange 2013 hybrid server; "C:\Scripts\Exchange Migration".
 As this deployment comes in a ZIP format, you'll need to create the directory yourself and extract the files to that directory.
